@@ -7,7 +7,7 @@ use yii\web\AssetBundle;
 
 class TinymceAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/kuakling/tinymce-responsivefilemanager/assets';
+    public $sourcePath = '@vendor/kuakling/yii2-tinymce-responsivefilemanager/assets';
     public $js = [
         'tinymce/tinymce.min.js',
     ];
