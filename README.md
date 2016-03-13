@@ -2,13 +2,13 @@
 TinyMCE 4.3.4 + responsivefilemanager 9.9.7
 
 ##Installation
-composer require xvs32x/tinymce-responsivefilemanager
+composer require kuakling/tinymce-responsivefilemanager
 
 ##Usage:
 First, create @web/uploads/filemanager/source and @web/uploads/filemanager/thumbs folders
 
 ```php
-$form->field($model, 'title')->widget(\xvs32x\tinymce\Tinymce::className(), [
+$form->field($model, 'title')->widget(\kuakling\tinymce\Tinymce::className(), [
         //TinyMCE options
         'pluginOptions' => [
             'plugins' => [
