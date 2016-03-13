@@ -1,12 +1,12 @@
 {
-    "name": "kuakling/tinymce-responsivefilemanager",
+    "name": "kuakling/yii2-tinymce-responsivefilemanager",
     "type": "yii2-extension",
 
     "description": "TinyMCE + Responsive file manager widget for Yii2",
-    "keywords": ["kuakling"],
+    "keywords": ["kuakling", "Yii framework 2", "Extension", "tinyMCE", "ResponsiveFilemanager"],
     "license": "GPL-3.0+",
     "support": {
-        "source": "https://github.com/kuakling/tinymce-responsivefilemanager"
+        "source": "https://github.com/kuakling/yii2-tinymce-responsivefilemanager"
     },
     "authors": [
         {
