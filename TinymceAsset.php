@@ -1,13 +1,13 @@
 <?php
 
-namespace xvs32x\tinymce;
+namespace kuakling\tinymce;
 
 
 use yii\web\AssetBundle;
 
 class TinymceAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/xvs32x/tinymce-responsivefilemanager/assets';
+    public $sourcePath = '@vendor/kuakling/tinymce-responsivefilemanager/assets';
     public $js = [
         'tinymce/tinymce.min.js',
     ];
